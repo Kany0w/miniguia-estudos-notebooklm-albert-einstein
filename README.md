@@ -19,3 +19,4 @@ O mini guia foi desenvolvido para servir como material de apoio aos estudos, fac
 ## Ferramenta utilizada
 
 O conteúdo foi organizado utilizando o **NotebookLM**, com o objetivo de estruturar as informações de forma acessível e facilitar o processo de aprendizagem.
+https://notebook.google.com/notebook/be61464f-345a-4857-9b69-7e4b65953d8b
