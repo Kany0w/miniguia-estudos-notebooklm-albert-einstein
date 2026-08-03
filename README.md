@@ -127,6 +127,9 @@ A resposta apresentou exemplos concretos que demonstram como teorias desenvolvid
 ## Fontes utilizadas
 
 https://sites.fem.unicamp.br/~em313/paginas/person/einstein.htm
+
 https://portal.if.usp.br/imprensa/pt-br/node/1252
+
 https://www.bbc.com/portuguese/geral-52466100
+
 https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/
