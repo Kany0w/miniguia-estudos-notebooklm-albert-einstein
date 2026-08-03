@@ -74,7 +74,9 @@ Nos últimos anos de vida, dedicou-se à busca por uma Teoria Unificada de Campo
 # Prompts reutilizáveis
 
 > "Faça um resumo completo sobre a vida e a obra de Albert Einstein."
+
 Objetivo: Obter uma visão geral da trajetória de Albert Einstein, abrangendo sua biografia, principais descobertas científicas, aspectos pessoais e legado, para servir como base introdutória ao tema.
+
 Resultado obtido: O NotebookLM produziu um resumo estruturado cronologicamente, abordando:
 
 - A infância, formação acadêmica e início da carreira de Einstein;
@@ -87,7 +89,9 @@ Resultado obtido: O NotebookLM produziu um resumo estruturado cronologicamente, 
 
 A resposta apresentou uma organização lógica e contemplou praticamente todos os aspectos relevantes presentes nas fontes utilizadas pelo NotebookLM. Apesar de fornecer um excelente panorama geral, a resposta é bastante extensa e descritiva. Para consultas rápidas, torna-se necessário realizar perguntas mais específicas, como sobre a Relatividade Geral, o efeito fotoelétrico ou o impacto tecnológico de suas descobertas. Além disso, o prompt é amplo e faz com que diferentes temas sejam abordados superficialmente. Para obter explicações mais detalhadas sobre um assunto específico, foi necessário elaborar novos prompts direcionados.
 
+
 > "Diferencie a Relatividade Especial da Relatividade Geral."
+
 Objetivo: Compreender as diferenças entre as duas principais teorias desenvolvidas por Albert Einstein, identificando seus conceitos fundamentais, aplicações e impactos para a Física Moderna.
 Resultado obtido: O NotebookLM apresentou uma comparação detalhada entre as duas teorias, destacando:
 
@@ -104,10 +108,11 @@ Resultado obtido: O NotebookLM apresentou uma comparação detalhada entre as du
 
 Além da explicação textual, a resposta foi organizada em uma tabela comparativa, facilitando a identificação das principais diferenças entre as duas teorias. O resultado foi bastante completo e bem estruturado, dispensando ajustes significativos no prompt. Entretanto, por abordar conceitos complexos da Física, algumas explicações permanecem em nível introdutório. Para compreender detalhadamente aspectos matemáticos ou demonstrações das teorias, seria necessário utilizar prompts mais específicos, direcionando a IA para aprofundar determinado conceito.
 
-## Legado e aplicações
 
 > Cite tecnologias modernas que utilizam conceitos desenvolvidos por Albert Einstein.
+
 Objetivo: Identificar aplicações práticas das descobertas de Albert Einstein no desenvolvimento de tecnologias utilizadas atualmente, relacionando conceitos teóricos com seu impacto na sociedade.
+
 Resultado obtido: O NotebookLM identificou diversas tecnologias modernas fundamentadas nas contribuições científicas de Albert Einstein, destacando:
 
 - **Laser:** Desenvolvido a partir dos estudos sobre emissão estimulada, sendo aplicado em scanners, impressoras, leitores de CD/DVD e equipamentos médicos.
